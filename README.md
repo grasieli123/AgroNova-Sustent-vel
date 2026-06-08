@@ -15,7 +15,7 @@ O **AgroNova Sustentável** é um projeto voltado para promover práticas de agr
 ---
 
 ##  Tecnologias Utilizadas
-* ** ferramentas:** Git, GitHub Actions, Docker 
+ferramentas: Git, GitHub Actions, Docker 
 
 ---
 
