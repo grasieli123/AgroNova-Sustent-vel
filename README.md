@@ -15,11 +15,7 @@ O **AgroNova Sustentável** é um projeto voltado para promover práticas de agr
 ---
 
 ##  Tecnologias Utilizadas
-
-* **Frontend:** [React / Angular / Vue] *(substituir conforme o projeto real)*
-* **Backend:** [Node.js / Django / Flask] *(substituir conforme o projeto real)*
-* **Banco de Dados:** [PostgreSQL / MongoDB / MySQL]
-* **Outras ferramentas:** Git, GitHub Actions, Docker (se aplicável)
+* ** ferramentas:** Git, GitHub Actions, Docker 
 
 ---
 
@@ -80,13 +76,6 @@ Contribuições são bem-vindas! Para contribuir:
 4. Push para a branch: `git push origin minha-contribuicao`
 5. Abra um Pull Request
 
----
-
-## Licença
-
-Este projeto está licenciado sob a licença [MIT](LICENSE) — veja o arquivo LICENSE para detalhes.
-
----
 
 ## Contato
 
