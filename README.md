@@ -1,20 +1,20 @@
-# AgroNova Sustentável 🌱
+*AgroNova Sustentável*
 
 O **AgroNova Sustentável** é um projeto voltado para promover práticas de agricultura sustentável, apoiando produtores rurais, agricultores urbanos e interessados em soluções ecológicas para o cultivo de alimentos. O objetivo é unir tecnologia e sustentabilidade para tornar a agricultura mais eficiente e consciente.
 
 ---
 
-## 📝 Funcionalidades
+## Funcionalidades
 
-* 📊 Monitoramento de dados agrícolas (temperatura, umidade, solo, etc.)
-* 🌿 Sugestões de práticas sustentáveis para cultivo
-* 📅 Planejamento e organização de plantios
-* 📱 Interface amigável para acompanhamento de resultados
-* ⚡ Alertas e notificações sobre condições críticas do cultivo
+*  Monitoramento de dados agrícolas (temperatura, umidade, solo, etc.)
+*  Sugestões de práticas sustentáveis para cultivo
+*  Planejamento e organização de plantios
+*  Interface amigável para acompanhamento de resultados
+*  Alertas e notificações sobre condições críticas do cultivo
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Frontend:** [React / Angular / Vue] *(substituir conforme o projeto real)*
 * **Backend:** [Node.js / Django / Flask] *(substituir conforme o projeto real)*
@@ -23,7 +23,7 @@ O **AgroNova Sustentável** é um projeto voltado para promover práticas de agr
 
 ---
 
-## 💻 Instalação
+##  Instalação
 
 1. Clone o repositório:
 
@@ -57,7 +57,7 @@ python manage.py runserver
 
 ---
 
-## 🛠 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```text
 AgroNova-Sustent-vel/
@@ -70,7 +70,7 @@ AgroNova-Sustent-vel/
 
 ---
 
-## 🤝 Contribuição
+##  Contribuição
 
 Contribuições são bem-vindas! Para contribuir:
 
@@ -82,14 +82,14 @@ Contribuições são bem-vindas! Para contribuir:
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a licença [MIT](LICENSE) — veja o arquivo LICENSE para detalhes.
 
 ---
 
-## 📞 Contato
+## Contato
 
 * Desenvolvedora: Grasieli
 * GitHub: [https://github.com/grasieli123](https://github.com/grasieli123)
-* Email: (se aplicável)
+* Email: (grasieli.stoll@escola.pr.gov.br)
